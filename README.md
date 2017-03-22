@@ -12,6 +12,8 @@ Jika berhasil akan masuk ke frame main<br>
 ![screenshot_1](https://cloud.githubusercontent.com/assets/22045698/24187058/dc58c5fa-0f0d-11e7-9f54-9e6fc080333d.png)
 ![screenshot_2](https://cloud.githubusercontent.com/assets/22045698/24187059/dc5c3456-0f0d-11e7-900e-f00e87297891.png)<br>
 Ketika berhasil menambahkan data <br>
-![screenshot_3](https://cloud.githubusercontent.com/assets/22045698/24187061/dc5ffa3c-0f0d-11e7-9495-abe956ae5e17.png)
+![screenshot_3](https://cloud.githubusercontent.com/assets/22045698/24187061/dc5ffa3c-0f0d-11e7-9495-abe956ae5e17.png)<br>
+Ketika tombol print d tekan<br>
+![screenshot_5](https://cloud.githubusercontent.com/assets/22045698/24187383/4b347f68-0f0f-11e7-8205-795db67bc05a.png)
 
 
